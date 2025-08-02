@@ -273,7 +273,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: Check this README and inline comments
 - **Issues**: Use GitHub Issues for bug reports
 - **Discussions**: Use GitHub Discussions for questions
-- **Email**: support@webwhiteboard.com (if applicable)
+- **Email**: support@webwhiteboard.com 
 
 ## 🌟 Star History
 
